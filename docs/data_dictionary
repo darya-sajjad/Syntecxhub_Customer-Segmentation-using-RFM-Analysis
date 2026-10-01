@@ -1,0 +1,71 @@
+## Data Dictionary
+
+# About Dataset
+This is an Superstore Customer Sales dataset, it contains:
+
+No. of columns: 20
+No. of Records: 8511
+
+# Columns Overview:
+
+## Row ID
+An identification number for every row in the table.
+
+## Order ID
+An identification number for every transaction made by a customer.
+
+## Order Date
+Tracks the date on which the transaction was made (e.g. 2023-05-19).
+
+## Ship Mode
+Tracks the class in which the order was shipped. (e.g. Standard Class, Second Class).
+
+## Customer ID
+Tracks the customer's ID.
+
+## Customer Name
+Tracks the customer's name.
+
+## Segment
+Tracks the type of customer making the purchase (e.g. Corporate, Consumer).
+
+## Country/Region
+Tracks the country of the customer (e.g. United States).
+
+## City
+Tracks the city of the customer (e.g. New York City, Mesa).
+
+## State
+Tracks the state the customer lives in (e.g. California, Texas).
+
+## Postal Code
+Tracks the postal code of the customers area (e.g. 10024).
+
+## Region
+Tracks the geographic region of the customer (e.g. South, West).
+
+## Product ID
+Tracks the id of the product.
+
+## Category
+Tracks the category of every product ordered (e.g. Office Supplies). 
+
+## Sub-Category
+Tracks the sub category of every product ordered (e.g. Paper). 
+
+## Product Name
+Tracks the name of the product (e.g. Headphones, Dress).
+
+## Sales
+Tracks the final amount after the discount is applied.
+
+## Quantity
+Tracks the number of products purchased in every transaction.
+
+## Discount
+Tracks the discount applied (e.g. 0.7, 0.2).
+
+## Profit
+Tracks the profit made on every transaction.
+
+
