@@ -1,4 +1,4 @@
-# Marketing Recommendations
+# Targeted Marketing Recommendations
 
 Based on the segment behavior analysis (789 customers, $1.97M sales). 
 Priority order: At Risk, Champions, Loyal, Others, Big Spenders, Lost.

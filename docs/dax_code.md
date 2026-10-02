@@ -1,5 +1,5 @@
 # Dax 
-All the Dax that i used for doing the customer segmentation RFM analysis:
+All the Dax code used for doing the customer segmentation RFM analysis:
 
 ## Table: Superstore 2025 (Main)
 ### Measure: Max Order Date
@@ -17,7 +17,7 @@ SUMMARIZE(
     "Frequency", DISTINCTCOUNT('Superstore 2025'[Order ID]),
     "Monetary", SUM('Superstore 2025'[Sales]))
 
-### Customer Segmentaion (Assigning Scores)
+### Customer Segmentation (Assigning Scores)
 Customer_Segment = 
 SWITCH(
         TRUE(),
